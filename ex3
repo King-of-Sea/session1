@@ -1,2 +1,2 @@
-let i = prompt("enter the temperature in Celsius")
-console.log(`Fahrenheit: ${i*1.8+32}`)
+let i = prompt("enter the temperature in Celsius");
+console.log(`Fahrenheit: ${i*1.8+32}`);
