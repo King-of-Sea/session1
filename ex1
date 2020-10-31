@@ -1,10 +1,10 @@
 // how to check a avarible's type
 // type typeof with what you want to check 
-console.log(11)
-console.log(typeof 11)
-console.log('hoang')
-console.log(typeof'hoang')
-console.log(true)
-console.log(typeof true)
-console.log('hoang')
-console.log(typeof hoang)
+console.log(11);
+console.log(typeof 11);
+console.log('hoang');
+console.log(typeof'hoang');
+console.log(true);
+console.log(typeof true);
+console.log('hoang');
+console.log(typeof hoang);
