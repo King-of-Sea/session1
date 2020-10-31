@@ -1,0 +1,31 @@
+// A square
+for (i=0; i<=4; i=i+1) {
+  fd(100)
+  rt(90)
+}
+// An equilateral triangle
+for (i=0; i<=3; i=i+1) {
+  fd(100)
+  rt(120)
+}
+// A circle
+for (i=0; i<=360; i=i+1) {
+  fd(1)
+  rt(1)
+}
+// A multi circle
+for (y=1; y<=6; y=y+1) {
+  rt(360/6)
+for (i=0; i<=360; i=i+1) {
+  fd(1)
+  rt(1)
+}
+}
+// infinity circle
+for (y=1; y<=100; y=y+1) {
+  rt(360/6)
+for (i=0; i<=360; i=i+1) {
+  fd(1)
+  rt(1)
+}
+}
