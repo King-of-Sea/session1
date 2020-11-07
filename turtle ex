@@ -29,3 +29,34 @@ for (i=0; i<=360; i=i+1) {
   rt(1);
 }
 }
+// A pentagon
+for (i=0;i<=4;i=i+1) {
+  fd(100)
+  rt(72)
+}
+// A hexagon
+for (i=0;i<=5;i=i+1) {
+  fd(100)
+  rt(60)
+}
+// A polygons
+for (i=0;i<=2;i++) {
+  fd(100)
+  rt(120)
+}
+for (y=0;y<=3;y++) {
+  fd(100)
+  rt(90)
+}
+for(a=0;a<=4;a++) {
+  fd(100)
+  rt(72)
+}
+for(b=0;b<=5;b++) {
+  fd(100)
+  rt(60)
+}
+for(c=0;c<=7;c++) {
+  fd(100)
+  rt(45)
+}
